@@ -16,10 +16,9 @@ The application uses the OpenWeather API to retrieve current weather conditions 
 
 * ## 🌐 Live Demo
 
-🚀 **Try the Weather App here:** [View Live Demo](YOUR_LIVE_DEMO_URL)
+🚀 **Try the Weather App here:** https://developer121438.github.io/weather/
 
 Explore the application and check real-time weather information for cities around the world.
-
 
 ## 🛠️ Technologies Used
 
@@ -47,13 +46,7 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 
-Open your terminal and run:
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-https://github.com/Developer121438/weather
+Open your terminal and run:https://github.com/Developer121438/weather
 
 ### 2. Open the Project
 
