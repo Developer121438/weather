@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherApp</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="rain.png">
+    <meta name="author" content="Dejen Angaw">
+    <meta name="description" content="This App is helpful to Search the weather of any city in the world.">
+</head>
+<body>
+
+    <div class="container">
+        <div class="search">
+          <input type="search" placeholder="Enter City Name" spellcheck="false" autocomplete="on" autofocus>
+          <button> <img src="search-icon.png"></button>
+        </div>
+          <p class="error">City not found</p>
+        <div class="weather">
+          <img src="rain.png" width="200" class="weather-icon"/>
+          <h1 class="temp">22°C</h1>
+          <h2 class="city">Bahir Dar</h2>
+          <div class="details">
+            <div class="col">
+            <img src="Humudity.png">
+            <div>
+                <p class="humidity">50%</p>
+                <p>Humidity</p>
+            </div>
+            </div>
+
+            <div class="col">
+            <img src="icons8-wind-48.png">
+            <div>
+                <p class="wind">48 km/h</p>
+                <p>Wind Speed</p>
+            </div>
+            </div>
+          </div>
+        </div>
+
+    </div>
+<script src="doc.js"></script>
+</body>
+</html>
