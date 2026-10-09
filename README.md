@@ -14,6 +14,13 @@ The application uses the OpenWeather API to retrieve current weather conditions 
 * ⚠️ **Error Handling:** Show an error message when a city cannot be found or the API request fails.
 * 📱 **Responsive Design:** Use the application on different screen sizes.
 
+* ## 🌐 Live Demo
+
+🚀 **Try the Weather App here:** [View Live Demo](YOUR_LIVE_DEMO_URL)
+
+Explore the application and check real-time weather information for cities around the world.
+
+
 ## 🛠️ Technologies Used
 
 * **HTML5** — Structures the application.
@@ -46,7 +53,7 @@ Open your terminal and run:
 git clone YOUR_REPOSITORY_URL
 ```
 
-Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
+https://github.com/Developer121438/weather
 
 ### 2. Open the Project
 
@@ -100,10 +107,8 @@ Possible improvements include:
 
 Aspiring Front-End Developer | HTML | CSS | JavaScript
 
-* GitHub: [Your GitHub Profile](https://github.com/)
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-
-*Replace the profile links with your actual profile URLs.*
+* GitHub: https://github.com/Developer121438
+* LinkedIn: www.linkedin.com/in/dejen-angaw-67b14343b
 
 ## 📄 License
 
